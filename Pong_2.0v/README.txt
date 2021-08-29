@@ -23,5 +23,6 @@ If you are still experiencing problems, try changing the rtf directory path in l
 
 All in all, I hope you like this game. 
 If you like to see a quick overview of how the game is run, please view the video on youtube I made going over it at https://www.youtube.com/watch?v=9BFlwDmZH_E\
+Sorry that the video is rushed, I was trying to make it shorter, and that my voice sounds much more high pitch than usual. 
 
 All the best!
