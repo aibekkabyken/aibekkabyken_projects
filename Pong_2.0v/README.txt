@@ -26,3 +26,4 @@ If you like to see a quick overview of how the game is run, please view the vide
 Sorry that the video is rushed, I was trying to make it shorter, and that my voice sounds much more high pitch than usual. 
 
 All the best!
+Aibek
